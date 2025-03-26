@@ -2,7 +2,7 @@ import os
 import google.generativeai as genai
 
 # Set the API key
-genai.configure(api_key="AIzaSyCvLXwplzhhhqybZ6jb8Ot7VIWLB3C8yig")
+genai.configure(api_key="Your API key")
 
 
 def summarize_text(text, lang='en'):
