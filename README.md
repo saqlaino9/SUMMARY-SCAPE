@@ -49,7 +49,7 @@ https://your-app-name.streamlit.app/
 ```
 
 ## 📷 Example Screenshot
-App Screenshot ![image](https://github.com/user-attachments/assets/729d6ffb-f24e-4f91-b06d-e7d079bd84e8)
+App Screenshot![image](https://github.com/user-attachments/assets/729d6ffb-f24e-4f91-b06d-e7d079bd84e8)
 
 
 ## 📜 License
